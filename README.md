@@ -12,6 +12,8 @@ Entrada estándar: **evaluación gratuita de 30 minutos + piloto de 4 semanas so
 
 ## Herramientas gratuitas (sin registro, sin backend, sin datos)
 
+Las tres, con su ficha, límites y guías asociadas: **https://caseroclaw.github.io/**
+
 | Herramienta | Para qué sirve | Enlace |
 |---|---|---|
 | Radar AI Act | Clasifica un caso de uso según el reglamento europeo de IA: prohibido, alto riesgo (Anexo I / III), riesgo limitado o mínimo, con deberes por rol y fecha de exigibilidad | https://caseroclaw.github.io/radar-ai-act/ |
